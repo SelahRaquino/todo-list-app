@@ -1,0 +1,36 @@
+html {
+	overflow-y: hidden;
+}
+
+.title {
+	font-family: Tahoma;
+	font-weight: 800;
+	color: #673ab7;
+}
+
+.box-todo {
+	border: 1px solid #e5e5e5;
+	border-radius: 15px;
+	background-color: white;
+}
+
+.btn-add {
+	border-radius: 100%;
+	background-color: #673ab7;
+}
+
+.display-text {
+	border: none;
+	color: grey;
+}
+
+.card {
+	min-height: 600px;
+	max-height: 600px;
+	overflow-y: auto;
+}
+
+.display-style {
+	text-decoration: line-through;
+	color: green;
+}
