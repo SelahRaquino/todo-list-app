@@ -1,2 +1,2 @@
 # todo-list-app
-CRUD ToDo List by me
+CRUD ToDo List App by Selah Raquino

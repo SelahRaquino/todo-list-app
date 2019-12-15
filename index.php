@@ -1,5 +1,5 @@
 <?php 
-include 'server.php';
+include './database/server.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -30,7 +30,7 @@ include 'server.php';
 					<div class="display_area row box-todo mx-auto my-2 p-3 w-100" style="display: none">
 						<div class="col-2">
 							<div class="custom-control custom-checkbox">
-								<input id="checkbox_todo" type="checkbox">
+								<input class="checkbox_todo" type="checkbox">
 							</div>
 						</div>
 						<div class="col-8">
